@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\bin\Debug\net8.0\БодыреваПЗ14.exe
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\bin\Debug\net8.0\БодыреваПЗ14.deps.json
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\bin\Debug\net8.0\БодыреваПЗ14.runtimeconfig.json
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\bin\Debug\net8.0\БодыреваПЗ14.dll
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\bin\Debug\net8.0\БодыреваПЗ14.pdb
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.AssemblyInfo.cs
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.dll
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\refint\БодыреваПЗ14.dll
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.pdb
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\БодыреваПЗ14.genruntimeconfig.cache
+C:\Users\Student28\source\repos\БодыреваПЗ14\БодыреваПЗ14\obj\Debug\net8.0\ref\БодыреваПЗ14.dll
