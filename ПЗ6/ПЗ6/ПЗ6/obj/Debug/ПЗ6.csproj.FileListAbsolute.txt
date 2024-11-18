@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\bin\Debug\ПЗ6.exe.config
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\bin\Debug\ПЗ6.exe
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\bin\Debug\ПЗ6.pdb
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\obj\Debug\ПЗ6.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\obj\Debug\ПЗ6.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\obj\Debug\ПЗ6.exe
+C:\Users\Student28\source\repos\ПЗ6\ПЗ6\obj\Debug\ПЗ6.pdb
