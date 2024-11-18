@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "БолдыреваПЗ-17", "БолдыреваПЗ-17\БолдыреваПЗ-17.csproj", "{42311269-5ED4-447E-973E-39A2D0AAB117}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{CD5845B0-8EED-44B0-A0D4-04CBDCB06E81}"
+	ProjectSection(SolutionItems) = preProject
+		numbers.txt = numbers.txt
+		colors.txt = colors.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЗАДАНИЕ2", "ЗАДАНИЕ2\ЗАДАНИЕ2.csproj", "{58601E8E-44E5-4061-A913-4040FF72F199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42311269-5ED4-447E-973E-39A2D0AAB117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42311269-5ED4-447E-973E-39A2D0AAB117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42311269-5ED4-447E-973E-39A2D0AAB117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42311269-5ED4-447E-973E-39A2D0AAB117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58601E8E-44E5-4061-A913-4040FF72F199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58601E8E-44E5-4061-A913-4040FF72F199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58601E8E-44E5-4061-A913-4040FF72F199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58601E8E-44E5-4061-A913-4040FF72F199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09FA4B49-7D7B-4994-AE85-AA27E366A6C6}
+	EndGlobalSection
+EndGlobal
