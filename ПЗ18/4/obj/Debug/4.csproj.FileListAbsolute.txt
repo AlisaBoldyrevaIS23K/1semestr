@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\bin\Debug\4.exe.config
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\bin\Debug\4.exe
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\bin\Debug\4.pdb
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\obj\Debug\4.exe
+C:\Users\Student28\source\repos\БолдыреваПЗ18\4\obj\Debug\4.pdb

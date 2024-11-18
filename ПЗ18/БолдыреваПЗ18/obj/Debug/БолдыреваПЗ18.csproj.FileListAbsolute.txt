@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\bin\Debug\БолдыреваПЗ18.exe.config
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\bin\Debug\БолдыреваПЗ18.exe
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\bin\Debug\БолдыреваПЗ18.pdb
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\obj\Debug\БолдыреваПЗ18.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\obj\Debug\БолдыреваПЗ18.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\obj\Debug\БолдыреваПЗ18.exe
+C:\Users\Student28\source\repos\БолдыреваПЗ18\БолдыреваПЗ18\obj\Debug\БолдыреваПЗ18.pdb
