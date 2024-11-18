@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\bin\Debug\net8.0\задание1.exe
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\bin\Debug\net8.0\задание1.deps.json
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\bin\Debug\net8.0\задание1.runtimeconfig.json
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\bin\Debug\net8.0\задание1.dll
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\bin\Debug\net8.0\задание1.pdb
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.AssemblyInfo.cs
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.dll
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\refint\задание1.dll
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.pdb
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\задание1.genruntimeconfig.cache
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\задание1\obj\Debug\net8.0\ref\задание1.dll

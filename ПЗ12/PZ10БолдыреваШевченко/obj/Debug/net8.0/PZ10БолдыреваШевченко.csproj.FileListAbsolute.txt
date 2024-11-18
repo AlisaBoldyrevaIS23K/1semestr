@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\bin\Debug\net8.0\PZ10БолдыреваШевченко.exe
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\bin\Debug\net8.0\PZ10БолдыреваШевченко.deps.json
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\bin\Debug\net8.0\PZ10БолдыреваШевченко.runtimeconfig.json
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\bin\Debug\net8.0\PZ10БолдыреваШевченко.dll
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\bin\Debug\net8.0\PZ10БолдыреваШевченко.pdb
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.AssemblyInfo.cs
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.dll
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\refint\PZ10БолдыреваШевченко.dll
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.pdb
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\PZ10БолдыреваШевченко.genruntimeconfig.cache
+C:\Users\Student28\source\repos\PZ10БолдыреваШевченко\PZ10БолдыреваШевченко\obj\Debug\net8.0\ref\PZ10БолдыреваШевченко.dll

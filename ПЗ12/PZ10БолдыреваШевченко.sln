@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ10БолдыреваШевченко", "PZ10БолдыреваШевченко\PZ10БолдыреваШевченко.csproj", "{874C3E55-E455-4109-A440-1E43C30FFF1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задание1", "задание1\задание1.csproj", "{39FADF38-04F4-40FF-AE4D-F3EC14FA1385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874C3E55-E455-4109-A440-1E43C30FFF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874C3E55-E455-4109-A440-1E43C30FFF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874C3E55-E455-4109-A440-1E43C30FFF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874C3E55-E455-4109-A440-1E43C30FFF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FADF38-04F4-40FF-AE4D-F3EC14FA1385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FADF38-04F4-40FF-AE4D-F3EC14FA1385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FADF38-04F4-40FF-AE4D-F3EC14FA1385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FADF38-04F4-40FF-AE4D-F3EC14FA1385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF65BA04-334F-4A49-9B74-4F101FC46740}
+	EndGlobalSection
+EndGlobal
