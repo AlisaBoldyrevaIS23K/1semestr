@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\bin\Debug\Болдырева-пз19.exe.config
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\bin\Debug\Болдырева-пз19.exe
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\bin\Debug\Болдырева-пз19.pdb
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\obj\Debug\Болдырева-пз19.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\obj\Debug\Болдырева-пз19.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\obj\Debug\Болдырева-пз19.exe
+C:\Users\Student28\source\repos\Болдырева-пз19\Болдырева-пз19\obj\Debug\Болдырева-пз19.pdb
