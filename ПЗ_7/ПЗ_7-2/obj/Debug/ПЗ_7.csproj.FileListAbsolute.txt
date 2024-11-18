@@ -1,0 +1,7 @@
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\bin\Debug\ПЗ_7.exe.config
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\bin\Debug\ПЗ_7.exe
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\bin\Debug\ПЗ_7.pdb
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\obj\Debug\ПЗ_7.csproj.AssemblyReference.cache
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\obj\Debug\ПЗ_7.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\obj\Debug\ПЗ_7.exe
+C:\Users\Student28\Desktop\ПЗ_7\ПЗ_7-2\obj\Debug\ПЗ_7.pdb
