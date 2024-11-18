@@ -1,0 +1,8 @@
+C:\Users\Student28\source\repos\ПЗ5\ПЗ5\obj\Debug\IS23_Ponomarev.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\ПЗ5\ПЗ5\obj\Debug\IS23_Ponomarev.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\ПЗ5\ПЗ5\obj\Debug\ПЗ5.exe
+C:\Users\Student28\source\repos\ПЗ5\ПЗ5\obj\Debug\ПЗ5.pdb
+C:\Users\Student28\Desktop\ПЗ5 Пономарев\ПЗ5\obj\Debug\IS23_Ponomarev.csproj.AssemblyReference.cache
+C:\Users\Student28\Desktop\ПЗ5 Пономарев\ПЗ5\obj\Debug\IS23_Ponomarev.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\ПЗ5 Пономарев\ПЗ5\obj\Debug\ПЗ5.exe
+C:\Users\Student28\Desktop\ПЗ5 Пономарев\ПЗ5\obj\Debug\ПЗ5.pdb
