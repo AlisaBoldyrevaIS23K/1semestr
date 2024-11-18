@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\bin\Debug\Болдырева Пономарев.exe.config
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\bin\Debug\Болдырева Пономарев.exe
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\bin\Debug\Болдырева Пономарев.pdb
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\obj\Debug\Болдырева Пономарев.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\obj\Debug\Болдырева Пономарев.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\obj\Debug\Болдырева Пономарев.exe
+C:\Users\Student28\source\repos\Болдырева Пономарев\Болдырева Пономарев\obj\Debug\Болдырева Пономарев.pdb
