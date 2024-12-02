@@ -1,0 +1,7 @@
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\bin\Debug\Болырева_ПЗ-20.exe.config
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\bin\Debug\Болырева_ПЗ-20.exe
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\bin\Debug\Болырева_ПЗ-20.pdb
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\obj\Debug\Болырева_ПЗ-20.csproj.AssemblyReference.cache
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\obj\Debug\Болырева_ПЗ-20.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\obj\Debug\Болырева_ПЗ-20.exe
+C:\Users\Student28\source\repos\Болырева_ПЗ-20\Болырева_ПЗ-20\obj\Debug\Болырева_ПЗ-20.pdb
